@@ -8,7 +8,7 @@
 . To use my application follow the instructions below;
 * open github and search FrancisSakwa89
 * open triangle repository
-* git clone:https://github.com/FrancisSakwa89/triangle.git
+* git clone:https://francissakwa89.github.io/triangle_finder/
 * go back to your atom and open it (atom .)
 * write your code (if this is your preffered text editor)
 . This application depends on atom and git hub so you must first install atom in your machine and also possesses a browser.
