@@ -1,7 +1,8 @@
 # TRIANGLE TRACKER
 #### This application helps users to find out different types triangles by allowing users to input values through the dialogue box where you can put three sides of a triangle,  14 Sep 2018
  Authors.
- .Francis Sakwa
+ 
+  Francis Sakwa
 ## Description
   .This application helps users to find out different types triangles by allowing users to input values through the dialogue box  where you can put three sides of a triangle after which the dialogue box executes the output as either(Equilateral, Isosceles or scalene)according to the values feed in
 ## How to Install.
