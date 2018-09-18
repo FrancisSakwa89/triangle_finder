@@ -8,7 +8,7 @@ if (AB ===BC && BC===CA || CA === AB){
 
 alert("Equilateral triangle!");
 }
-else if (BC===AB && BC === CA || CA === AB && CA != BC) {
+else if (BC===AB && BC != CA || CA != AB && CA != BC) {
 alert("Isosceles triangle!");
 }
 else if (AB != BC && AB !=CA || BC !=CA ) {
