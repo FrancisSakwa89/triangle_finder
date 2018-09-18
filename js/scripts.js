@@ -19,3 +19,4 @@ alert("Not a triangle!");
  else{
       alert("please be keen and try again")
 }
+}
