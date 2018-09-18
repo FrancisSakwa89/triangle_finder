@@ -19,7 +19,7 @@
 *CSS and
 *JavaScript
 ## Contacts
-*For more information contact :0701112358, or e-mail sakwafrancis89@gmail.com
+ For more information contact :0701112358, or e-mail sakwafrancis89@gmail.com
 ### License
 MIT License
 
