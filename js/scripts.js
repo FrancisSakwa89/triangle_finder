@@ -16,9 +16,9 @@ alert("Isosceles triangle!");
 else if (AB > BC && AB > CA || BC > CA) {
 alert("Scalene triangle!");
 }
-else if( AB + BC <= CA || CA + BC <= AB){
-alert("Not a triangle!");
-}
+// else if( AB + BC <= CA || CA + BC <= AB){
+// alert("Not a triangle!");
+// }
  else{
       alert("please be keen and try again")
 }
