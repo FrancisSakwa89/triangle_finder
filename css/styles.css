@@ -1,0 +1,36 @@
+*{
+  margin: auto;
+  width: auto;
+  background-color: grey;
+}
+#get_triangle {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: red;
+}
+#triangle {
+  font-size: 20px;
+  color: blue;
+  width: 100px;
+  text-align: center;
+  margin-top: 40px;
+  border: 3px solid black;
+}
+#Find {
+  width: auto;
+  height:auto;
+  color: white;
+  font-size: 48px;
+  text-align: left;
+  background-color: maroon;
+}
+img {
+   float: center;
+   width: 400px;
+   height: 300px;
+}
+p{
+   color: yellow;
+   text-align: center;
+}
