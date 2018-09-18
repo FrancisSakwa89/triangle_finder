@@ -8,7 +8,7 @@ var CA =document.getElementById('CA').value;
 
      alert("Equilateral triangle!");
  }
- else if (BC === AB && BC === CA || CA === AB && CA != BC) {
+ else if (BC===AB && BC != CA || CA != AB) {
     alert("Isosceles triangle!");
  }
  else if (AB != BC && AB !=CA || BC !=CA ) {
