@@ -4,7 +4,7 @@ var BC =document.getElementById('BC').value;
 var CA =document.getElementById('CA').value;
 
 
-if (AB ===BC && BC===CA || CA === AB){
+if (AB ===BC && BC===CA){
 
 alert("Equilateral triangle!");
 }
