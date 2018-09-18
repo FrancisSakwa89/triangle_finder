@@ -6,15 +6,15 @@ var CA =document.getElementById('CA').value;
 
      if (AB ===BC && BC===CA || CA === AB){
 
-     alert("Equilateral triangle!");
- }
- else if (BC===AB && BC === CA || CA === AB && CA != BC) {
-    alert("Isosceles triangle!");
- }
- else if (AB != BC && AB !=CA || BC !=CA ) {
-     alert("Scalene triangle!");
- }
- else if( AB + BC <= CA || CA + BC <= AB){
-   alert("Not a triangle!");
- }
+alert("Equilateral triangle!");
+}
+else if (BC===AB && BC === CA || CA === AB && CA != BC) {
+alert("Isosceles triangle!");
+}
+else if (AB != BC && AB !=CA || BC !=CA ) {
+alert("Scalene triangle!");
+}
+else if( AB + BC <= CA || CA + BC <= AB){
+alert("Not a triangle!");
+}
 }
