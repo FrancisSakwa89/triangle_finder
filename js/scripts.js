@@ -3,7 +3,7 @@ var AB =document.getElementById('AB').value;
 var BC =document.getElementById('BC').value;
 var CA =document.getElementById('CA').value;
 
-  if ((AB < BC)  &&(CA < BC) || (BC < AB) {
+  if (AB < 0 && BC < 0 || CA < 0) {
        alert ("No triangle")
 }
  else if (AB ===BC && BC===CA || CA === AB){
