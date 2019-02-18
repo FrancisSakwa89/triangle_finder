@@ -13,7 +13,7 @@ alert("Equilateral triangle!");
 else if (BC===AB && BC < CA || CA < AB) {
 alert("Isosceles triangle!");
 }
-else if (AB != BC && AB !=CA || BC !=CA ) {
+else if (AB != BC && AB !=CA && BC !=CA ) {
 alert("Scalene triangle!");
 }
 else if( AB + BC <= CA || CA + BC <= AB){
