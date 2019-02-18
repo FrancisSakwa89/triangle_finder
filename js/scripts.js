@@ -3,8 +3,10 @@ var AB =document.getElementById('AB').value;
 var BC =document.getElementById('BC').value;
 var CA =document.getElementById('CA').value;
 
-
-if (AB ===BC && BC===CA){
+if(AB.length === 0 && BC.length === 0 && CA.length === 0){
+  alert('Please insert values');
+   }
+else if (AB ===BC && BC===CA){
 
 alert("Equilateral triangle!");
 }
@@ -17,4 +19,4 @@ alert("Scalene triangle!");
 else if( AB + BC <= CA || CA + BC <= AB){
 alert("Not a triangle!");
 }
-}
+};
